@@ -45,4 +45,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salihalammari&show_icons=true&locale=en" alt="salihalammari" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salihalammari&" alt="salihalammari" /></p>
-#<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/slammari" alt="slammari's 42 stats" /></a>
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkgray/slammari" alt="slammari's 42 stats" /></a>
